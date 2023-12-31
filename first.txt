@@ -2,3 +2,5 @@ Created an empty file by called first.txt:
     file status: U-untracked
 git add . : 
     file status: A-index added
+git commit -m '' :
+    file status: M-modified
